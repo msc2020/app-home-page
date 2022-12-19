@@ -4,4 +4,4 @@ Personal experiments with Django, Railway (before Heroku), Python, JS, CSS, Clou
 
 Running on:
 
-<a href="https://web-production-b5c0.up.railway.app/" target="_blank">https://web-production-b5c0.up.railway.app/<a>
+<a href="https://msc2020.up.railway.app/" target="_blank">https://msc2020.up.railway.app/<a>
